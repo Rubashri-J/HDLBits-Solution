@@ -1,0 +1,5 @@
+//HDLBits Problem: Constant logic 1
+//Author: Rubashri
+module top_module( output one );
+    assign one = [fixme];
+endmodule
